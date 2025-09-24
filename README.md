@@ -13,7 +13,7 @@ A Sharp lcd is still used, but in 3.2'' with a 536x336 resolution
 
 A µsd card is used for storage
 
-The keyboard is horizontal : 3x6 keys under the lcd and 1*6 + 5*5 keys at the right side, the layout is an attempt
+The keyboard is horizontal : 3x6 keys under the lcd and 1x6 + 5x5 keys at the right side, the layout is an attempt
 
 <img width="536" height="336" alt="image_hr" src="https://github.com/user-attachments/assets/e5dbc27c-fdae-4213-8231-74d21b85713f" />
 

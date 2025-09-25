@@ -1,5 +1,5 @@
 # dbh7a3
-# dbh7a3
+
 Porting db48x on a NUCLEO-H7A3ZI-Q, main goals : testing low power, a new keyboard layout and a 3.2'' display
 
 The stm32h743 has no low power mode and no smps regulator
@@ -28,7 +28,7 @@ DB48x is running.
 This keyboard layout is a work in progress. But the new resolution is very easy to adapt !
 
 Some bugs in display, (no refresh) during some tests.
-The 4 edit keys are working, transalpha mode is ok, only some planes are correct, help function needs to be disabled
+The 4 edit keys are working, transalpha mode is ok, only some planes are correct, help function is working.
 
 
 

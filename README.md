@@ -30,5 +30,8 @@ This keyboard layout is a work in progress. But the new resolution is very easy 
 Some bugs in display, (no refresh) during some tests.
 The 4 edit keys are working, transalpha mode is ok, only some planes are correct, help function is working.
 
+New keyboard layout : adding alpha key, removing space, mouving f & g :
+<img width="808" height="426" alt="image" src="https://github.com/user-attachments/assets/38eb64ae-669d-4ef3-bdab-0eb5e76e1220" />
 
+Alpha key is working, all keys plans are fine, second f => g
 
